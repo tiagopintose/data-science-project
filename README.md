@@ -1,1 +1,3 @@
-# data-science-project
+# Tiago Pinto
+
+My first data science project.
